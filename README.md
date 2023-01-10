@@ -3,5 +3,5 @@
 Olá!  Bem vindo ao meu livro de receitas:wave:
 
 - Strogonoff de frango
-# livro-receitras
-# livro-receitras
+
+# livro-receitas
